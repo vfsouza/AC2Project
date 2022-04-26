@@ -1,4 +1,5 @@
-﻿X=C;
+﻿inicio:
+X=C;
 Y=6;
 W=AB;
 X=A;
@@ -7,3 +8,4 @@ W=AoB;
 W=nAeB;
 X=D;
 W=Bn;
+fim.
